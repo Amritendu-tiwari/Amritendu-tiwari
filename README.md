@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **AI,ML,Python,C++,DSA,SQL,JENKINS,CI/CD,DOCKER**
 
-- 📫 How to reach me **Tiwariishu977@gmail.com**
+- 📫 How to reach me **amritendu.wrk@gmail.com**
 
 - ⚡ Fun fact **I used to break software for a living—now I break down data to uncover insights!**
 
