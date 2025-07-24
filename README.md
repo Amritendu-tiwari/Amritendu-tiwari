@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amritendu Tiwari</h1>
-<h3 align="center">SDET transitioning to data science with strong Python, testing, and analytical skills; passionate about data-driven insights and modeling.</h3>
+<h3 align="center">SDE transitioning to data science with strong Python, testing, and analytical skills; passionate about data-driven insights and modeling.</h3>
 
 - 🌱 I’m currently learning **AI,ML & Data scientist**
 
