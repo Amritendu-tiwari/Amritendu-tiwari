@@ -18,10 +18,6 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Amritendu-tiwari/Amritendu-tiwari/output/github-contribution-grid-snake.svg" />
-
-###
-
 <div align="left">
   <h2><b>👀 Visitor Count</b></h2>
   <img src="https://count.getloli.com/@Amritendu-tiwari?theme=booru-huggboo" alt="Visitor Count" />
