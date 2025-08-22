@@ -1,19 +1,102 @@
-<h1 align="center">Hi 👋, I'm Amritendu Tiwari</h1>
-<h3 align="center">SDE transitioning to data science with strong Python, testing, and analytical skills; passionate about data-driven insights and modeling.</h3>
+<h1 align="center">Hi there, I'm Amritendu Tiwari <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
 
-- 🌱 I’m currently learning **AI,ML & Data scientist**
+###
 
-- 👯 I’m looking to collaborate on [Jenkins Devices Farm](https://github.com/Tenuda/Device-Farm)
+<div align="center">
+  <a href="https://www.linkedin.com/in/amritendu-tiwari-b15a331b1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:amritendu.wrk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/Amritendu-tiwari" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+</div>
 
-- 💬 Ask me about **AI,ML,Python,C++,DSA,SQL,JENKINS,CI/CD,DOCKER**
+###
 
-- 📫 How to reach me **amritendu.wrk@gmail.com**
+<br clear="both">
 
-- ⚡ Fun fact **I used to break software for a living—now I break down data to uncover insights!**
+<img align="right" height="155" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+###
+
+<h3 align="left">👨‍💻  About Me</h3>
+
+###
+
+<p align="left"> 
+- 🚀 AI/ML Engineer passionate about building intelligent systems <br>
+- 🎓 B.Tech background with strong foundation in Computer Science & Data Science <br>
+- 🧠 Skilled in **Generative AI, RAG, LLM Fine-tuning, and LangChain** <br>
+- 🔬 Hands-on with **Deep Learning (ANN, CNN, RNN, LSTM, GRU), HuggingFace, PyTorch, TensorFlow** <br>
+- 📊 Experienced in **EDA, Time Series, Statistical Modeling, and Data Visualization** <br>
+- ⚡ Fun fact: *I love teaching machines to think and create like humans!*  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+###
+
+<h3 align="left">🛠 Tech Stack & Tools</h3>
+
+###
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ffcd00?style=for-the-badge&logo=huggingface&logoColor=black)  
+![LangChain](https://img.shields.io/badge/LangChain-%2300f.svg?style=for-the-badge&logo=chainlink&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Plotly&logoColor=black)  
+![Seaborn](https://img.shields.io/badge/Seaborn-0077B5?style=for-the-badge&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+</div>
+
+###
+
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+- [📄 AskYourPDF (RAG-based Q&A)](https://github.com/Amritendu-tiwari/AskYourPDF) – Chat with PDFs using embeddings + ChromaDB  
+- [🌍 Smart-Translator](https://github.com/Amritendu-tiwari/Smart-tarnslator) – Multilingual transcription & blog generation  
+- [🎬 ClipWizard](https://github.com/Amritendu-tiwari) – Automated video highlight detection  
+- [🤖 LangChain Q&A Bot](https://github.com/Amritendu-tiwari) – Context-aware conversational AI  
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+<div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amritendu-tiwari&show_icons=true&locale=en" alt="Amritendu-tiwari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amritendu-tiwari&" alt="Amritendu-tiwari" /></p>
+</div>
+<div>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritendu-tiwari&layout=compact)
+
+</div>
+
+###
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Amritendu-tiwari/Amritendu-tiwari/output/github-contribution-grid-snake.svg" />
+
+###
+
+<div align="left">
+  <h2><b>👀 Visitor Count</b></h2>
+  <img src="https://count.getloli.com/@Amritendu-tiwari?theme=booru-huggboo" alt="Visitor Count" />
+</div>
